@@ -1,0 +1,7 @@
+Add filters and sorting to MemberPanel.js:
+
+- Dropdown or buttons to filter by category (e.g. Suspect Conditions, Frequent Flyers)
+- Sort options: by metric_value (e.g., visits, cost)
+- Show a count of members in each section
+
+Use Tailwind: `select`, `rounded`, `text-sm`, and `grid-cols` for responsive layout.

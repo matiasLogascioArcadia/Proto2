@@ -1,0 +1,9 @@
+Create a front-end-only project to simulate a 3-level contract drilldown dashboard using vanilla JavaScript, Tailwind CSS, and dummy JSON files (no backend). Include:
+
+- index.html
+- app.js
+- styles.css
+- /data/: contracts.json, providers.json, members.json, quality_gaps.json
+- /components/: ContractTable.js, ProviderTable.js, MemberPanel.js, QualityModal.js, Breadcrumb.js, Header.js
+
+Link Tailwind via CDN and wire all JS components via module imports.

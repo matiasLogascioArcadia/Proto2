@@ -1,0 +1,9 @@
+In app.js:
+
+- On load: show ContractTable
+- On click of “View by…” → load ProviderTable with selected contract
+- On click “Go to PCP Panel” → load MemberPanel
+- On “View Quality Gaps” → show QualityModal
+- Use `document.getElementById("section-id").classList.add("hidden")` to toggle views
+
+Structure sections in HTML using IDs: #contractView, #providerView, #memberView

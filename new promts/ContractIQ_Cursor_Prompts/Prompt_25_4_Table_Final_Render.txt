@@ -1,0 +1,6 @@
+Render the full KPI summary table inside the PCP Panel view using the table structure and data loop.
+
+Use section header: "📊 Overview KPIs"
+Below it, insert the table generated from Prompt_25_1–3
+
+Place this section above the Member Insight cards. It should match the spacing and style of the rest of the app.

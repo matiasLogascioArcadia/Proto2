@@ -1,0 +1,8 @@
+In app.js, wire together all components:
+
+- Start with ContractTable on load
+- Clicking “View by TIN/NPI/Practice” hides contract view and shows ProviderTable
+- Clicking “Go to Panel” shows MemberPanel with breadcrumbs updated
+- Clicking “View Quality Gaps” opens QualityModal
+
+Use `section.classList.add("hidden")` and `classList.remove("hidden")` to toggle visibility.

@@ -1,0 +1,8 @@
+Update all tables (contracts, providers, members) to support column-based sorting and basic filtering.
+
+Sorting:
+- Clickable headers toggle ASC/DESC
+- Use arrow icons `▲ ▼` to indicate direction
+
+Filtering:
+- Input box or dropdown for contract type, unit name, member risk category

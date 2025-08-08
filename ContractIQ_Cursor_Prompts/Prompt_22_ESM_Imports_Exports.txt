@@ -1,0 +1,6 @@
+Ensure all components use ES module syntax:
+
+- Export with `export default`
+- Import in `app.js` using `import ContractTable from './components/ContractTable.js'`
+
+Wire each component to render into specific divs like `#contractView`, `#providerView`, `#memberView` on demand.

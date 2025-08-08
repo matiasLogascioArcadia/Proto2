@@ -1,0 +1,8 @@
+Update `members.json` to include metadata for each entry:
+
+- unit_type ("TIN", "NPI", "Practice")
+- unit_name
+- pcp_name
+- pcp_npi
+
+This will help link each member to the unit panel they belong to, and populate breadcrumbs.

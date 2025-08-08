@@ -1,0 +1,13 @@
+Create a reusable row layout for each KPI in the summary table.
+
+Each row should contain:
+- Category (e.g., Part A, Coding, etc.)
+- Metric label (e.g., RAF Score)
+- Value (bold)
+- MoM with arrow and colored text (green for ▲, red for ▼)
+- YoY with arrow and colored text (green for ▲, red for ▼)
+
+Use Tailwind utility classes:
+- Value: `text-gray-900 font-semibold`
+- Trend positive: `text-green-600`, arrow: ▲
+- Trend negative: `text-red-600`, arrow: ▼

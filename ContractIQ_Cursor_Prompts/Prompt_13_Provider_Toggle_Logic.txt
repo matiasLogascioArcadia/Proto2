@@ -1,0 +1,5 @@
+Add toggle state logic in app.js or ProviderTable.js so that clicking [TIN | NPI | Practice] updates the provider list and highlights the active selection.
+
+Use Tailwind button group styles:
+- `bg-purple-100 text-purple-700 font-semibold px-3 py-1 rounded`
+- Active button: `bg-purple-600 text-white`

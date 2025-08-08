@@ -1,0 +1,16 @@
+Create a `providers.json` file with 3 sample views:
+- TINs
+- NPIs
+- Practices
+
+Each provider object should have:
+- unit_type ("TIN", "NPI", "Practice")
+- unit_name
+- target
+- expense
+- surplus
+- quality_gaps_total
+- quality_gaps_completed
+- member_months
+
+Make sure some units have negative surplus or low % quality completion.

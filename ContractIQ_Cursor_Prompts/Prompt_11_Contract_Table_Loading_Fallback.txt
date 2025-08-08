@@ -1,0 +1,6 @@
+Update ContractTable.js to include a loading spinner (on initial load) and an error state if JSON fails to load.
+
+Use Tailwind:
+- Spinner: `animate-spin h-6 w-6 border-4 border-purple-600 border-t-transparent rounded-full`
+- Centered wrapper: `flex justify-center items-center h-32`
+- Error message: `text-red-500 text-sm text-center mt-4`

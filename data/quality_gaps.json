@@ -1,0 +1,118 @@
+{
+    "quality_gaps": [
+        {
+            "measure_name": "Breast Cancer Screening",
+            "numerator": 245,
+            "denominator": 350,
+            "members_with_appointments": 45,
+            "members": [
+                {
+                    "name": "Sarah Johnson",
+                    "status": "Due",
+                    "value": "Last screening: 2/15/2022",
+                    "next_appointment": "3/15/2024"
+                },
+                {
+                    "name": "Maria Rodriguez",
+                    "status": "Scheduled",
+                    "value": "Last screening: 1/10/2023",
+                    "next_appointment": "2/20/2024"
+                },
+                {
+                    "name": "Emily Chen",
+                    "status": "Overdue",
+                    "value": "Last screening: 3/5/2021",
+                    "next_appointment": "1/25/2024"
+                },
+                {
+                    "name": "Patricia Williams",
+                    "status": "Due",
+                    "value": "Last screening: 4/12/2022",
+                    "next_appointment": "4/15/2024"
+                },
+                {
+                    "name": "Lisa Thompson",
+                    "status": "Scheduled",
+                    "value": "Last screening: 2/28/2023",
+                    "next_appointment": "3/1/2024"
+                }
+            ]
+        },
+        {
+            "measure_name": "HbA1c Control",
+            "numerator": 180,
+            "denominator": 250,
+            "members_with_appointments": 35,
+            "members": [
+                {
+                    "name": "Robert Davis",
+                    "status": "At Risk",
+                    "value": "Last A1c: 8.2%",
+                    "next_appointment": "2/15/2024"
+                },
+                {
+                    "name": "James Wilson",
+                    "status": "Controlled",
+                    "value": "Last A1c: 6.8%",
+                    "next_appointment": "3/1/2024"
+                },
+                {
+                    "name": "Michael Brown",
+                    "status": "Critical",
+                    "value": "Last A1c: 9.5%",
+                    "next_appointment": "1/20/2024"
+                },
+                {
+                    "name": "David Miller",
+                    "status": "Controlled",
+                    "value": "Last A1c: 6.5%",
+                    "next_appointment": "2/28/2024"
+                },
+                {
+                    "name": "Thomas Anderson",
+                    "status": "At Risk",
+                    "value": "Last A1c: 7.9%",
+                    "next_appointment": "2/10/2024"
+                }
+            ]
+        },
+        {
+            "measure_name": "Colon Cancer Screening",
+            "numerator": 195,
+            "denominator": 300,
+            "members_with_appointments": 40,
+            "members": [
+                {
+                    "name": "John Smith",
+                    "status": "Due",
+                    "value": "Last screening: 5/15/2021",
+                    "next_appointment": "2/25/2024"
+                },
+                {
+                    "name": "William Taylor",
+                    "status": "Scheduled",
+                    "value": "Last screening: 6/10/2022",
+                    "next_appointment": "3/5/2024"
+                },
+                {
+                    "name": "Richard Clark",
+                    "status": "Overdue",
+                    "value": "Last screening: 4/5/2020",
+                    "next_appointment": "1/30/2024"
+                },
+                {
+                    "name": "Charles Lewis",
+                    "status": "Due",
+                    "value": "Last screening: 7/12/2021",
+                    "next_appointment": "3/15/2024"
+                },
+                {
+                    "name": "Joseph Young",
+                    "status": "Scheduled",
+                    "value": "Last screening: 8/28/2022",
+                    "next_appointment": "2/20/2024"
+                }
+            ]
+        }
+    ]
+} 

@@ -1,0 +1,8 @@
+Create a responsive HTML table in the PCP Panel view to display grouped KPI summary metrics by category.
+
+Requirements:
+- Table wrapper: `overflow-x-auto`
+- Table element: `table-auto w-full text-sm text-left border-collapse`
+- Columns: Category | Metric | Value | MoM | YoY
+- Header row: `bg-gray-50 text-gray-600 uppercase text-xs tracking-wide`
+- Cell padding: `px-4 py-2`

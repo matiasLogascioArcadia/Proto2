@@ -1,0 +1,16 @@
+Build a `ProviderTable.js` component that:
+- Loads and displays `providers.json`
+- Adds a selector: [ TIN | NPI | Practice ]
+- Filters data based on selected unit_type
+- Displays table with:
+  - Name
+  - Member Months
+  - Target
+  - Expense
+  - Surplus
+  - % Gaps Completed
+  - Total Gaps
+  - Buttons: “Go to Panel” + “Quality Gaps”
+
+Use Tailwind: `bg-white`, `shadow-md`, `text-gray-800`, `hover:bg-gray-100`.
+Add sorting on surplus, gaps, members.

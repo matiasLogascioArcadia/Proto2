@@ -1,0 +1,9 @@
+In QualityModal.js, add expandable member rows for each quality measure.
+
+Each row shows:
+- Member Name
+- Status (Pending/Completed)
+- Value
+- Next Appointment Date
+
+Highlight members with upcoming appointments using: `bg-green-50`

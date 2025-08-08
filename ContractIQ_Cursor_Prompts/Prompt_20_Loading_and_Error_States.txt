@@ -1,0 +1,7 @@
+Add consistent loading and error states to all major components (ContractTable, ProviderTable, MemberPanel).
+
+- Spinner: `animate-spin`
+- Error message: `text-red-600 text-sm mt-4`
+- Loading placeholder text: `text-gray-400 italic`
+
+Use `try...catch` blocks around JSON fetches in each component.

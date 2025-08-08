@@ -1,0 +1,48 @@
+{
+    "contracts": [
+        {
+            "id": "c1",
+            "contract_name": "Metro Health Alliance",
+            "contract_type": "Commercial",
+            "member_months_ytd": 425000,
+            "target_ytd": 425000000,
+            "expense_ytd": 398750000,
+            "surplus_ytd": 26250000,
+            "quality_bonus_ytd": 8500000,
+            "gainshare_ytd": 17750000
+        },
+        {
+            "id": "c2",
+            "contract_name": "Valley Care Network",
+            "contract_type": "Medicare Advantage",
+            "member_months_ytd": 185000,
+            "target_ytd": 185000000,
+            "expense_ytd": 192400000,
+            "surplus_ytd": -7400000,
+            "quality_bonus_ytd": 3700000,
+            "gainshare_ytd": 0
+        },
+        {
+            "id": "c3",
+            "contract_name": "Coastal Health Partners",
+            "contract_type": "Commercial",
+            "member_months_ytd": 275000,
+            "target_ytd": 275000000,
+            "expense_ytd": 258500000,
+            "surplus_ytd": 16500000,
+            "quality_bonus_ytd": 5500000,
+            "gainshare_ytd": 11000000
+        },
+        {
+            "id": "c4",
+            "contract_name": "Mountain Health System",
+            "contract_type": "Medicare Advantage",
+            "member_months_ytd": 95000,
+            "target_ytd": 95000000,
+            "expense_ytd": 87400000,
+            "surplus_ytd": 7600000,
+            "quality_bonus_ytd": 1900000,
+            "gainshare_ytd": 5700000
+        }
+    ]
+} 

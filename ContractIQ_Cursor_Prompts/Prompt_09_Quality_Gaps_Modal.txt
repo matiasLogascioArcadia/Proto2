@@ -1,0 +1,7 @@
+Build a modal or expandable table in `QualityModal.js` that:
+- Displays each measure's completion %
+- Renders a table of members: name, status, value, appointment
+
+Use Tailwind modal UI:
+- `bg-white p-4 rounded-xl shadow-xl`
+- Buttons to close or filter by "Pending" 

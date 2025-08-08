@@ -1,0 +1,15 @@
+Create a Tailwind-styled responsive HTML table component (`ContractTable.js`) that loads data from `contracts.json`.
+
+Columns:
+- Contract Name
+- Member Months
+- Target
+- Expense
+- Surplus (red if negative)
+- Quality Bonus
+- Gainshare
+- Action button: “▶ View by TIN/NPI”
+
+Apply:
+- `bg-white`, `rounded-xl`, `shadow-md`, `hover:bg-gray-50`
+- Header row: bold, sticky if scrolling

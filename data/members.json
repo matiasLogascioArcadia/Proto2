@@ -1,0 +1,211 @@
+{
+    "members": [
+        {
+            "member_id": "M1001",
+            "name": "John Doe",
+            "unit_type": "TIN",
+            "unit_name": "Metro Physicians Group",
+            "pcp_name": "Dr. Smith",
+            "risk_category": "Suspect Conditions",
+            "suspect_conditions": "CHF, CKD Stage 3",
+            "risk_score": 1.25
+        },
+        {
+            "member_id": "M1002",
+            "name": "Jane Roe",
+            "unit_type": "TIN",
+            "unit_name": "Metro Physicians Group",
+            "pcp_name": "Dr. Smith",
+            "risk_category": "Suspect Conditions",
+            "suspect_conditions": "Diabetes, Depression",
+            "risk_score": 1.42
+        },
+        {
+            "member_id": "M1003",
+            "name": "Alice Brown",
+            "unit_type": "TIN",
+            "unit_name": "Valley Medical Associates",
+            "pcp_name": "Dr. Jane Doe",
+            "risk_category": "Suspect Conditions",
+            "suspect_conditions": "Arthritis, Chronic Pain",
+            "risk_score": 1.10
+        },
+        {
+            "member_id": "M1004",
+            "name": "Bob White",
+            "unit_type": "TIN",
+            "unit_name": "Coastal Health Network",
+            "pcp_name": "Dr. Emily Green",
+            "risk_category": "Suspect Conditions",
+            "suspect_conditions": "Asthma, Allergies",
+            "risk_score": 0.95
+        },
+
+        {
+            "member_id": "M2001",
+            "name": "Mike Gomez",
+            "unit_type": "TIN",
+            "unit_name": "Metro Physicians Group",
+            "pcp_name": "Dr. Patel",
+            "risk_category": "Polypharmacy",
+            "medications_count": 13,
+            "high_risk_drugs": "Yes (3 meds)"
+        },
+        {
+            "member_id": "M2002",
+            "name": "Lisa Wang",
+            "unit_type": "TIN",
+            "unit_name": "Metro Physicians Group",
+            "pcp_name": "Dr. Smith",
+            "risk_category": "Polypharmacy",
+            "medications_count": 11,
+            "high_risk_drugs": "Yes (2 meds)"
+        },
+        {
+            "member_id": "M2003",
+            "name": "Charlie Black",
+            "unit_type": "TIN",
+            "unit_name": "Valley Medical Associates",
+            "pcp_name": "Dr. Jane Doe",
+            "risk_category": "Polypharmacy",
+            "medications_count": 9,
+            "high_risk_drugs": "No"
+        },
+
+        {
+            "member_id": "M3001",
+            "name": "Tom Allen",
+            "unit_type": "TIN",
+            "unit_name": "Metro Physicians Group",
+            "pcp_name": "Dr. Lee",
+            "risk_category": "Frequent Flyers",
+            "ed_visits_ytd": 8,
+            "ip_admits_ytd": 3
+        },
+        {
+            "member_id": "M3002",
+            "name": "Ron Kim",
+            "unit_type": "TIN",
+            "unit_name": "Metro Physicians Group",
+            "pcp_name": "Dr. Smith",
+            "risk_category": "Frequent Flyers",
+            "ed_visits_ytd": 10,
+            "ip_admits_ytd": 2
+        },
+        {
+            "member_id": "M3003",
+            "name": "David Gray",
+            "unit_type": "TIN",
+            "unit_name": "Valley Medical Associates",
+            "pcp_name": "Dr. Jane Doe",
+            "risk_category": "Frequent Flyers",
+            "ed_visits_ytd": 5,
+            "ip_admits_ytd": 1
+        },
+
+        {
+            "member_id": "M4001",
+            "name": "David Hu",
+            "unit_type": "TIN",
+            "unit_name": "Metro Physicians Group",
+            "pcp_name": "Dr. Patel",
+            "risk_category": "High Utilizers",
+            "total_visits": 27,
+            "visit_cost": 18200
+        },
+        {
+            "member_id": "M4002",
+            "name": "Sarah P.",
+            "unit_type": "TIN",
+            "unit_name": "Metro Physicians Group",
+            "pcp_name": "Dr. Smith",
+            "risk_category": "High Utilizers",
+            "total_visits": 25,
+            "visit_cost": 15800
+        },
+        {
+            "member_id": "M4003",
+            "name": "Emma Brown",
+            "unit_type": "TIN",
+            "unit_name": "Coastal Health Network",
+            "pcp_name": "Dr. Emily Green",
+            "risk_category": "High Utilizers",
+            "total_visits": 30,
+            "visit_cost": 20000
+        },
+
+        {
+            "member_id": "M5001",
+            "name": "Laura Y.",
+            "unit_type": "TIN",
+            "unit_name": "Metro Physicians Group",
+            "pcp_name": "Dr. Smith",
+            "risk_category": "Top 10 – Pharmacy Spend",
+            "pharmacy_spend": 9200,
+            "medications_count": 10
+        },
+        {
+            "member_id": "M5002",
+            "name": "Chris T.",
+            "unit_type": "TIN",
+            "unit_name": "Valley Medical Associates",
+            "pcp_name": "Dr. Jane Doe",
+            "risk_category": "Top 10 – Pharmacy Spend",
+            "pharmacy_spend": 7500,
+            "medications_count": 8
+        },
+
+        {
+            "member_id": "M6001",
+            "name": "Evan T.",
+            "unit_type": "TIN",
+            "unit_name": "Metro Physicians Group",
+            "pcp_name": "Dr. Smith",
+            "risk_category": "Top 10 – Specialty Spend",
+            "specialty_spend": 13500,
+            "specialty_services_used": "Oncology, Rheumatology"
+        },
+        {
+            "member_id": "M6002",
+            "name": "Nia M.",
+            "unit_type": "TIN",
+            "unit_name": "Metro Physicians Group",
+            "pcp_name": "Dr. Patel",
+            "risk_category": "Top 10 – Specialty Spend",
+            "specialty_spend": 11000,
+            "specialty_services_used": "Cardiology, Nephrology"
+        },
+        {
+            "member_id": "M6003",
+            "name": "Olivia L.",
+            "unit_type": "NPI",
+            "unit_name": "Dr. Sarah Chen",
+            "pcp_name": "Dr. Sarah Chen",
+            "risk_category": "Top 10 – Specialty Spend",
+            "specialty_spend": 9800,
+            "specialty_services_used": "Dermatology, Endocrinology"
+        },
+        {
+            "member_id": "M7001",
+            "name": "Rachel Kim",
+            "unit_type": "TIN",
+            "unit_name": "Metro Physicians Group",
+            "pcp_name": "Dr. Smith",
+            "risk_category": "Quality Gaps",
+            "num_open_gaps": 6,
+            "measures_due": ["Breast Cancer Screening", "HbA1c", "Colon Cancer"],
+            "next_appointment": "2025-07-03"
+        },
+        {
+            "member_id": "M7002",
+            "name": "Daniel Lopez",
+            "unit_type": "TIN",
+            "unit_name": "Metro Physicians Group",
+            "pcp_name": "Dr. Nguyen",
+            "risk_category": "Quality Gaps",
+            "num_open_gaps": 5,
+            "measures_due": ["HbA1c", "Eye Exam", "Nephropathy"],
+            "next_appointment": "-"
+        }
+    ]
+} 

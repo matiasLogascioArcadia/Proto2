@@ -1,0 +1,7 @@
+Write a JavaScript function that loops through the `kpis` object and generates each row of the table.
+
+Structure:
+- For each section (e.g., partA, partB), iterate over each KPI
+- Extract: category, label, value, mom, yoy, direction
+- Render each as a row using the layout from Prompt_25_2
+- Order of sections: membersSeen, coding, partA, partB, partD

@@ -1,0 +1,8 @@
+Apply smooth UI transitions:
+
+- Add Tailwind `transition-all duration-300 ease-in-out` to card containers
+- Animate table row hover: `hover:bg-gray-50`
+- Button hover effects: `hover:bg-purple-700 transition-colors`
+- Section fade-in: `opacity-0 animate-fade-in`
+
+(Optional) define keyframes for `fade-in` in custom CSS.

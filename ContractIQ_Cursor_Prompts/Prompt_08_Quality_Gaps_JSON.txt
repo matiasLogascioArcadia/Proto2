@@ -1,0 +1,8 @@
+Create `quality_gaps.json` with:
+- measure_name
+- numerator
+- denominator
+- members_with_appointments
+- members[] = { name, status, value, next_appointment }
+
+Add 3 measures: Breast Cancer Screening, HbA1c Control, Colon Cancer Screening.

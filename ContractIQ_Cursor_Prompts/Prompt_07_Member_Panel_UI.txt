@@ -1,0 +1,18 @@
+Create a `MemberPanel.js` component that:
+- Loads `members.json`
+- Groups members into 6 cards:
+  - Suspect Conditions
+  - Frequent Flyers
+  - High Utilizers
+  - Polypharmacy
+  - Pharmacy Cost
+  - Specialty Cost
+
+Each card shows:
+- Top 10 members
+- Name, metric value, and PCP
+- Action button: “View Member”
+
+Use `grid-cols-2` or `flex-wrap`, with `bg-white`, `rounded-xl`, `shadow`, and section titles.
+Include top nav showing:
+"Viewing: Contract A > Unit: TIN 123456 > Panel Type: PCP" 

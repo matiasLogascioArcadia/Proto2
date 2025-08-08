@@ -1,0 +1,4 @@
+Update ProviderTable.js to make table responsive for mobile:
+- Wrap table in `overflow-x-auto`
+- Use Tailwind `text-xs` or `text-sm` for narrow screens
+- Add `min-w-[600px]` on table if necessary to preserve structure

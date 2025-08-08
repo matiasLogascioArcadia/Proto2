@@ -1,0 +1,16 @@
+Create a file `members.json` with 10 fake members each for:
+
+- Suspect Conditions
+- Frequent Flyers
+- High Utilizers
+- Polypharmacy
+- High Pharmacy Cost
+- High Specialty Cost
+
+Each object should include:
+- member_id
+- name
+- PCP name
+- risk_category
+- metric_value (e.g., visits or spend)
+- suspect_conditions (for those flagged)

@@ -1,0 +1,6 @@
+Finalize all UI styling:
+
+- Use consistent layout: `max-w-screen-xl mx-auto p-6`
+- Section headers: `text-xl font-semibold text-gray-900 border-b pb-1 mb-4`
+- Buttons: `bg-purple-600 text-white px-3 py-1 rounded-md`
+- Footer: `text-xs text-gray-400 mt-12 text-center`

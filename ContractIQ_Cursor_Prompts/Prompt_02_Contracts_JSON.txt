@@ -1,0 +1,12 @@
+Create a file called `contracts.json` with 4 fake contracts. Each should include:
+
+- contract_name
+- contract_type
+- member_months_ytd
+- target_ytd
+- expense_ytd
+- surplus_ytd
+- quality_bonus_ytd
+- gainshare_ytd
+
+Use values between 50k–500k members, and $20M–$500M finances. Include one contract with a negative surplus.
